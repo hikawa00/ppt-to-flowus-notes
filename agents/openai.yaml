@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT to FlowUs Notes"
+  short_description: "Turn PPT/PDF lessons into personal FlowUs-style notes"
+  default_prompt: "Use $ppt-to-flowus-notes to turn these PPT or PDF lessons into FlowUs-ready Markdown notes and a separate coverage audit."
